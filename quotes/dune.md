@@ -6,4 +6,9 @@
 
 =======
 - "The spice must flow."
+<<<<<<< HEAD
 >>>>>>> 9190c8d (H: upadte dune quote 1)
+=======
+- "Fear is the little mind-killer."
+
+>>>>>>> dfca637 (I: upadte dune quote 2)
